@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/demochatbot/static/css/main.1e239b12.css",
-    "main.js": "/demochatbot/static/js/main.352ecd11.js",
-    "static/js/453.6a54098e.chunk.js": "/demochatbot/static/js/453.6a54098e.chunk.js",
-    "index.html": "/demochatbot/index.html",
-    "main.1e239b12.css.map": "/demochatbot/static/css/main.1e239b12.css.map",
-    "main.352ecd11.js.map": "/demochatbot/static/js/main.352ecd11.js.map",
-    "453.6a54098e.chunk.js.map": "/demochatbot/static/js/453.6a54098e.chunk.js.map"
+    "main.css": "/demoChatbot/static/css/main.1e239b12.css",
+    "main.js": "/demoChatbot/static/js/main.d65dfa2e.js",
+    "static/js/453.6a54098e.chunk.js": "/demoChatbot/static/js/453.6a54098e.chunk.js",
+    "index.html": "/demoChatbot/index.html",
+    "main.1e239b12.css.map": "/demoChatbot/static/css/main.1e239b12.css.map",
+    "main.d65dfa2e.js.map": "/demoChatbot/static/js/main.d65dfa2e.js.map",
+    "453.6a54098e.chunk.js.map": "/demoChatbot/static/js/453.6a54098e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e239b12.css",
-    "static/js/main.352ecd11.js"
+    "static/js/main.d65dfa2e.js"
   ]
 }
